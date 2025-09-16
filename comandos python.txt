@@ -1,0 +1,5 @@
+-- Ativar venv no cmd estando na pasta do projeto com o venv
+venv\Scripts\activate
+
+-- abrir autogen
+autogenstudio ui --port 8080 --appdir ./myapp
